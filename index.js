@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Chaos"];
+const statusMessages = ["Chaos entfachen"];
 
 
 let currentIndex = 0;
